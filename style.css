@@ -1,0 +1,18 @@
+body{
+    background: url("pexels-colys-hat-1587442.jpg");
+}
+
+.area{
+    margin: auto;
+    margin-top: 150px;
+    width: 600px;
+    height: 390px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(76, 76, 76);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.467);
+    
+}
